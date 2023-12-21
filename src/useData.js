@@ -1,0 +1,17 @@
+export let userValue = {
+	conscriptDate: new Date(),
+	relievedDate : new Date(),
+	ealryDate : new Date(),
+	serviceDate: 0,
+	name : "곽곽이",
+	userClass : "이등병",
+	originalPercentage : 0.0,
+	earlyPercentage : 0.0,
+	vacation : 0,
+	prizeVacation : 0,
+	consolationVacation : 0,
+	promoteFirst : new Date(),
+	promoteSecond: new Date(),
+	promoteThird : new Date(),
+	initializeValue : false,
+}

@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "ARMYCC",
+    "slug": "ARMYCC",
+    "version": "1.0.6",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "ios": {
+      "bundleIdentifier": "com.nannda.ARMYCC2",
+      "buildNumber": "1.0.6",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.nannda.ARMYCC2",
+      "versionCode": 1,
+    },
+    "web": {},
+  }
+}
